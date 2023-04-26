@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Title of your feature
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 80.394 s <<< FAILURE! - in Title of your feature
+Title of your feature.Add customer  Time elapsed: 33.579 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Cannot locate option with text: Administrators
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: driver.version: unknown
+
