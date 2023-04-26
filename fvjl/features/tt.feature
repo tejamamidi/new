@@ -8,6 +8,7 @@ Feature: Title of your feature
    Given i Want to add features and little 
    When i enter and the features and conjugate the paralles
    Then i want to add featuresa
+   When i add features
   @tag2
   Scenario Outline: Title of your scenario outline
     Given I want to write a step with <name>

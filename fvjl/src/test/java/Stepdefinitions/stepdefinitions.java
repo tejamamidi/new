@@ -172,6 +172,40 @@ public class stepdefinitions {
 		{
 		   pd.uploadbutton();
 		}
+		@Given("i Want to add features and little")
+		public void i_want_to_add_features_and_little() throws InterruptedException {
+		    pd.edit();
+		}
+
+		@When("i enter and the features and conjugate the paralles")
+		public void i_enter_and_the_features_and_conjugate_the_paralles() {
+		    
+		}
+
+		@Then("i want to add featuresa")
+		public void i_want_to_add_featuresa() {
+		    
+		}
+
+		@Given("I want to write a step with name1")
+		public void i_want_to_write_a_step_with_name1() {
+		    
+		}
+
+		@When("I check for the {int} in step")
+		public void i_check_for_the_in_step(Integer int1) {
+		    
+		}
+
+		@Then("I verify the success in step")
+		public void i_verify_the_success_in_step() {
+		    
+		}
+		@When("i add features")
+		public void i_add_features() {
+		   
+		}
+
 
 
 }
